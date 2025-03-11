@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "strict": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true
+    },
+    "include": ["src/**/*", "../Rank Examiner/canvacord/rxUserRoutes.ts", "../Rank Examiner/canvacord/dist/channelRoutes.ts"],
+    "exclude": ["node_modules"]
+  }
