@@ -54,7 +54,7 @@ MysthavenAPI/
 - **Implement logging and monitoring tools**
 
 ## About Me
-I am a backend developer specializing in API development, Discord bots, and database optimization. This project is part of my portfolio to showcase my technical skills in building scalable backend services.
+I am a aspiring developer current in Discord bots, and database optimization. This project is part of my portfolio to showcase my technical skills in building scalable backend services.
 
 ## License
 This project is archived for portfolio reference only.
