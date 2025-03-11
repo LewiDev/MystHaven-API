@@ -18,7 +18,7 @@ fastify.register(fastifyRedis, { host: "127.0.0.1", port: 6379 });
 
 const startServer = async () => {
   try {
-        await mongoose.connect("mongodb+srv://root:admin@datahub.7d84moh.mongodb.net/?retryWrites=true&w=majority&appName=Datahub", {
+        await mongoose.connect("", {
           dbName: "Mysthaven",
         });
 
@@ -96,4 +96,4 @@ const startServer = async () => {
 
 startServer();
 
-/// TESTING BOT TOKEN: MTM0NTU4NDk4NjkyNDkxMjc1MA.GIsdxw.Tn96nlk2yQWu4D80in6VEsukfh94Jz6crc_XwE
+
